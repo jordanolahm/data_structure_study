@@ -1,5 +1,4 @@
 /*Busca Linear: Implemente uma função que busque um elemento em um array e retorne sua posição ou -1 se não for encontrado. */
-
 #include <iostream>
 
 using namespace std; 
